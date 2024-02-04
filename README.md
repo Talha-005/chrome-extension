@@ -1,1 +1,1 @@
-Youtube vdieo bookmarker chrome-extension
+Youtube video bookmarker chrome-extension
