@@ -10,7 +10,8 @@
   "content_scripts": [
     {
       "matches": ["https://*.youtube.com/*"],
-      "js": ["scripts/contentScript.js"]
+      "js": ["scripts/contentScript.js"],
+      "run_at": "document_end"
     }
   ],
   "web_accessible_resources": [
